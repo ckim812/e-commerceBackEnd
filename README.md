@@ -39,7 +39,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Link-to-video
 
-[https://app.castify.com/view/d4e760dd-7e19-49c5-8070-fe3600374768](https://app.castify.com/view/d4e760dd-7e19-49c5-8070-fe3600374768)
+[https://app.castify.com/view/0d7c978a-6752-4ca4-a338-ee4dd79804a7](https://app.castify.com/view/0d7c978a-6752-4ca4-a338-ee4dd79804a7)
 
 ## Usage
 
